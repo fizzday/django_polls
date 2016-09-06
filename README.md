@@ -1,4 +1,5 @@
-# django polls
+=======
+# django_polls
 
 介绍：
   参考Django官方文档的demo,并将添加投票系统相关接口, 并为接口编写测试用例。
